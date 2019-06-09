@@ -1,0 +1,13 @@
+{
+  "name": "gas-studio-form-notifier-to-slack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/munky69rock/gas-studio-form-notifier-to-slack.git",
+  "author": "Masayuki Uehara <munky69rock@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@google/clasp": "^2.1.0",
+    "@types/google-apps-script": "^0.0.53",
+    "tslint": "^5.17.0"
+  }
+}
