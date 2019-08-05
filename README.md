@@ -13,8 +13,8 @@
 4.  `clasp clone` を実行する
     ```
     $ clasp clone "1m2K...." --rootDir=./src # 先ほどコピーしたスクリプトIDを指定
-    $ git checkout appsscript.json
-    $ rm コード.js
+    $ git checkout src/appsscript.json
+    $ rm src/コード.js
     ```
 5. スクリプト編集画面の「ファイル > プロジェクトのプロパティ > スクリプトのプロパティ」に `SLACK_WEBHOOK_URL` と `GMAIL_SEARCH_QUERY`(ex: `to:studio@example.com AND subject:"Your form is submitted"`) を設定
 6. `clasp push`を実行
