@@ -1,10 +1,10 @@
-# studio.design Form Notifier
+# Slack Gmail Notifier
 
 ## Usage
 
 1. プロジェクトのセットアップ
     ```sh
-    $ git clone https://github.com/munky69rock/gas-studio-form-notifier-to-slack
+    $ git clone https://github.com/munky69rock/gas-gmail-notifier-to-slack
     $ npm i @google/clasp -g
     $ yarn install
     ```
